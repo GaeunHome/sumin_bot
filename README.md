@@ -8,6 +8,6 @@
 3. 24hr常駐
 4. 播放音樂
 
-# 教材
+# 教學材料
 1. [ Proladon ] https://www.youtube.com/@Proladon<br>
 2. [ OpenAI ] https://chatgpt.com/
